@@ -1,0 +1,15 @@
+.inputComp{
+    height: 25px;
+    width: 400px;
+    margin: 10px;
+    border: 1px solid;
+}
+
+.buttonComp{
+    font-size: 20px;
+    margin: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
